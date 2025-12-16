@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Jinzheng Wang(王锦政), an undergraduate student.
+I'm Jinzheng Wang（王锦政）, an undergraduate student.
 
 - interest in LLMs
 - 🎓 Arcane Studies
