@@ -27,7 +27,9 @@ I'm Jinzheng Wang(王锦政), an undergraduate student.
 Feel free to contact me :yum:
 <br><br>
  <a href="mailto:sakur7a@outlook.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
- <img src="https://img.shields.io/badge/WeChat-yueaimuuewq3-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat"/>
+ <a href="qr.jpg">
+  <img src="https://img.shields.io/badge/WeChat-yueaimuuewq3-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat"/>
+</a>
 <!--
 <a href="" target="_blank"><img src="d"></a>
 -->
