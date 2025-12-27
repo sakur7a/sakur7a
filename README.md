@@ -24,7 +24,7 @@ I'm Jinzheng Wang(王锦政), an undergraduate student.
   </p>
 
 
-Feel free to contact me :yum:
+Feel free to contact me
 <br><br>
  <a href="mailto:sakur7a@outlook.com">
   <img src="https://img.shields.io/badge/Email-sakur7a@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email"/>
